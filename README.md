@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ooperinteemu
+- 👀 I’m interested in web development and cybersecurity
+- 🌱 I’m currently learning HTML & CSS
