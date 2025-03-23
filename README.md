@@ -8,4 +8,4 @@ I’m Teemu, and I try to write code that works.
 🎯 **My Skills:**
 - Very little HTML & CSS.
 
-🔄 **Let’s Connect:**
+🔄 **Let’s Connect**
